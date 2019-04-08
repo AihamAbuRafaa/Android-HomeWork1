@@ -33,7 +33,7 @@ public class ProfileActivity extends AppCompatActivity {
                 case 1:
                     if(!profiles.containsKey(index))
                     {
-                        new_profile = new Profile_information("Aiham", "AbuRafaa", "(972) 546230958", "(972) 508259528", "aehm97@gmail.com", "aehm@runnableweb.com", R.drawable.aiham_aburafaa_img);
+                        new_profile = new Profile_information("Aiham", "AbuRafaa", "(972) 54-6230958", "(972) 50-8259528", "aehm97@gmail.com", "aehm@runnableweb.com", R.drawable.aiham_aburafaa_img);
                         profiles.put(index, new_profile);
                     }
                     else
@@ -42,7 +42,7 @@ public class ProfileActivity extends AppCompatActivity {
                 case 2:
                     if(!profiles.containsKey(index))
                     {
-                        new_profile = new Profile_information("Third", "Person", "(655) 123-4567", "(655)456-9999", "aliconnors@example.com", "ali_connors@example.com", R.drawable.ali_connors_img);
+                        new_profile = new Profile_information("Mark", "zuckerberg", "(972) 50-6678904", "(973) 50-9094853", "mark15@gmail.com", "admin@facebook.com", R.drawable.mark_img);
                         profiles.put(index, new_profile);
                     }
                     else
