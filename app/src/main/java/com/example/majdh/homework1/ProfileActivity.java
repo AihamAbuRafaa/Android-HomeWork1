@@ -33,7 +33,7 @@ public class ProfileActivity extends AppCompatActivity {
                 case 1:
                     if(!profiles.containsKey(index))
                     {
-                        new_profile = new Profile_information("Second", "Person", "(655) 123-4567", "(655)456-9999", "aliconnors@example.com", "ali_connors@example.com", R.drawable.ali_connors_img);
+                        new_profile = new Profile_information("Aiham", "AbuRafaa", "(972) 546230958", "(972) 508259528", "aehm97@gmail.com", "aehm@runnableweb.com", R.drawable.aiham_aburafaa_img);
                         profiles.put(index, new_profile);
                     }
                     else

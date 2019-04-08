@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
     private void fill_images()
     {
         images[0] = R.drawable.ali_connors_img;
-        images[1] = R.drawable.ali_connors_img; //need change
+        images[1] = R.drawable.aiham_aburafaa_img; //need change
         images[2] = R.drawable.ali_connors_img; //need change
         images[3] = R.drawable.ali_connors_img; //need change
         images[4] = R.drawable.ali_connors_img; //need change
