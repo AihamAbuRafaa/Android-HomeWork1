@@ -43,6 +43,6 @@ public class MainActivity extends AppCompatActivity {
         images[1] = R.drawable.aiham_aburafaa_img; //need change
         images[2] = R.drawable.mark_img; //need change
         images[3] = R.drawable.salam_img; //need change
-        images[4] = R.drawable.ali_connors_img; //need change
+        images[4] = R.drawable.ebrahem_img; //need change
     }
 }
